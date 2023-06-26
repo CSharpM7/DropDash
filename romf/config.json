@@ -1,0 +1,31 @@
+{
+    "share-to-added": {
+        "fighter/sonic/motion/body/c00/d03speciallwhold.nuanmb": [
+            "fighter/sonic/motion/body/c01/d03speciallwhold.nuanmb",
+            "fighter/sonic/motion/body/c02/d03speciallwhold.nuanmb",
+            "fighter/sonic/motion/body/c03/d03speciallwhold.nuanmb",
+            "fighter/sonic/motion/body/c04/d03speciallwhold.nuanmb",
+            "fighter/sonic/motion/body/c05/d03speciallwhold.nuanmb",
+            "fighter/sonic/motion/body/c06/d03speciallwhold.nuanmb",
+            "fighter/sonic/motion/body/c07/d03speciallwhold.nuanmb"
+        ],
+        "fighter/sonic/motion/body/c00/d03speciallwstart.nuanmb": [
+            "fighter/sonic/motion/body/c01/d03speciallwstart.nuanmb",
+            "fighter/sonic/motion/body/c02/d03speciallwstart.nuanmb",
+            "fighter/sonic/motion/body/c03/d03speciallwstart.nuanmb",
+            "fighter/sonic/motion/body/c04/d03speciallwstart.nuanmb",
+            "fighter/sonic/motion/body/c05/d03speciallwstart.nuanmb",
+            "fighter/sonic/motion/body/c06/d03speciallwstart.nuanmb",
+            "fighter/sonic/motion/body/c07/d03speciallwstart.nuanmb"
+        ],
+        "fighter/sonic/motion/body/c00/motion_list.bin": [
+            "fighter/sonic/motion/body/c01/motion_list.bin",
+            "fighter/sonic/motion/body/c02/motion_list.bin",
+            "fighter/sonic/motion/body/c03/motion_list.bin",
+            "fighter/sonic/motion/body/c04/motion_list.bin",
+            "fighter/sonic/motion/body/c05/motion_list.bin",
+            "fighter/sonic/motion/body/c06/motion_list.bin",
+            "fighter/sonic/motion/body/c07/motion_list.bin"
+        ]
+    }
+}

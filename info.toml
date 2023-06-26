@@ -1,0 +1,8 @@
+display_name="Drop Dash"
+description="""
+Replaces the aerial version of Sonic's Down Special with Drop Dash! Hold special to rev up in the air, and when you hit the ground, you'll instantly spin dash!
+Requires Smashline and Skyline
+"""
+version="1.0"
+category="Param"
+authors="C#"

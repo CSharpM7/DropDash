@@ -1,0 +1,6 @@
+**/target
+**/*.py
+**/*.pyc
+Cargo.lock
+**/blender
+**/release
